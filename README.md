@@ -1,6 +1,6 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+<!-- [![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/) -->
 
-##### Hi, I'm Adam:
+##### Hi, I'm Clint:
 
 - 🎓Recent computer science graduate from UNC - Chapel Hill
 - :test_tube: Finishing up my research in cybersecurity and preparing to make the industry transition
@@ -12,9 +12,9 @@
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalston9@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adammalston/)
 [![adamalston.com](https://img.shields.io/badge/-ADAMALSTON.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.adamalston.com/)
-
-##### Languages I use
-
+<!--
+##### Languages I use -->
+<!--
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Clojure](https://img.shields.io/badge/-Clojure-000000?style=flat&logo=clojure)
@@ -24,7 +24,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
-
+-->
 ##### Some of the technologies I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
@@ -48,13 +48,13 @@
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
 ##### Fun fact: I once solved the world's oldest question with a single line of JavaScript
-<!-- wi*quL3fcV -->
+<!-- wi*quL3fcV 
 
 ```javascript
 //  Which came first: the chicken or the egg?
 console.log(['🥚', '🐣', '🐥', '🐔'].sort())
 
->>> [ '🐔', '🐣', '🐥', '🥚' ]
+>>> [ '🐔', '🐣', '🐥', '🥚' ] -->
 ```
-
-⭐️ From [AdamAlston](https://github.com/adamalston)
+<!--
+⭐️ From [AdamAlston](https://github.com/adamalston) -->
